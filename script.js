@@ -1,7 +1,7 @@
 
 async function fetchItems() {
     try {
-        const itemsResponse = await fetch('https://raw.githubusercontent.com/PetarMc1/Minecraft-Items-API/refs/heads/main/api/Data/1.11/items.json');
+        const itemsResponse = await fetch('https://raw.githubusercontent.com/PetarMc1/Minecraft-Items-API-v2/refs/heads/master/src/Data/1.20/items.json');
         const itemsData = await itemsResponse.json();
         const iconsResponse = await fetch('https://minecraft-api.vercel.app/api/items');
         const iconsData = await iconsResponse.json();
