@@ -6,5 +6,5 @@ API 1:
 https://minecraft-api.vercel.app/api/items
 
 API 2:
-https://raw.githubusercontent.com/PetarMc1/Minecraft-Items-API/refs/heads/main/api/Data/1.11/items.json
+https://raw.githubusercontent.com/PetarMc1/Minecraft-Items-API-v2/refs/heads/master/src/Data/1.20/items.json
 
