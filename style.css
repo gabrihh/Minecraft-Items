@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     background-image: url('assets/background.jpg');
     background-attachment: fixed;
-    background-size: 100% 100vh;
+    background-size: 100% 100dvh;
     background-position: top center;
     background-repeat: no-repeat;
     color: white;
