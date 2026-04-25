@@ -1,5 +1,5 @@
-# Minecraft-Items [DECRAPTED]
-A simple website that displays general descriptions about Minecraft items. 
+# Minecraft-Items
+[DECRAPTED] A simple website that displays general descriptions about Minecraft items. 
 
 # Sources:
 API 1:
